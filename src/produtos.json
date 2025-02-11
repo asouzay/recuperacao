@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nome": "Bicicleta Dobrável Aro 20",
+        "preço": 1.299,
+        "estoque": 10,
+        "imagem": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg"
+    },
+    {
+        "id": 2,
+        "nome": "Aspirador de Pó Robô Inteligente",
+        "preço": 1.799,
+        "estoque": 25,
+        "imagem": "https://images.pexels.com/photos/8566440/pexels-photo-8566440.jpeg"
+    }
+]
